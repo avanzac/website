@@ -6,6 +6,7 @@ beginner Git tutorial in the history of the Universe. You should totally [
 check it out](http://learnenough.com/git-tutorial), and be sure to [join
 the email list](http://learnenough.com/#email_list) and [follow @learnenough
 ](http://twitter.com/learnenough) on Twitter.
+For more information on Git, see the [Official Git Documentation](https://git-scm.com/).
 
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
